@@ -1,0 +1,37 @@
+[{
+  "scheduleId": "AZSR-1080-DP",
+  "commune": "San Bernardo",
+  "active": false,
+  "minSize": "S",
+  "maxSize": "XL"
+}, {
+  "scheduleId": "AZSR-1080-DP",
+  "commune": "Buin",
+  "active": true,
+  "minSize": "S",
+  "maxSize": "XL"
+}, {
+  "scheduleId": "AZSR-1034-DP",
+  "commune": "Buin",
+  "active": true,
+  "minSize": "S",
+  "maxSize": "S"
+}, {
+  "scheduleId": "AZSR-1034-DP",
+  "commune": "San Bernardo",
+  "active": true,
+  "minSize": "S",
+  "maxSize": "S"
+}, {
+  "scheduleId": "AZSR-1082-DP",
+  "commune": "Buin",
+  "active": true,
+  "minSize": "S",
+  "maxSize": "L"
+}, {
+  "scheduleId": "AZSR-1082-DP",
+  "commune": "San Bernardo",
+  "active": true,
+  "minSize": "S",
+  "maxSize": "L"
+}]

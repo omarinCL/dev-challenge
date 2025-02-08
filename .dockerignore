@@ -1,0 +1,29 @@
+# Node
+node_modules
+npm-debug.log
+
+# Build
+dist
+coverage
+
+# Git
+.git
+.gitignore
+
+# Docs
+*.md
+
+# Environment
+.env
+.env.*
+
+# Tests
+tests
+*.test.ts
+
+# IDE
+.vscode
+.idea
+
+# OS
+.DS_Store

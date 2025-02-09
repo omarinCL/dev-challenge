@@ -1,19 +1,23 @@
-[{
+[
+  {
     "id": "AZSR-1080-DP",
     "courier": "1080",
     "serviceType": "S",
     "deliveryMethod": "DP",
     "cutTime": []
-},{
+  },
+  {
     "id": "AZSR-1034-DP",
     "courier": "1034",
     "serviceType": "EX",
     "deliveryMethod": "DP",
-    "cutTime": ["14:00","18:00","11:00","15:00","12:00","16:00","08:00"]
-},{
+    "cutTime": ["14:00", "18:00", "11:00", "15:00", "12:00", "16:00", "08:00"]
+  },
+  {
     "id": "AZSR-1082-DP",
     "courier": "1082",
     "serviceType": "S",
     "deliveryMethod": "DP",
     "cutTime": []
-}]
+  }
+]

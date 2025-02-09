@@ -1,32 +1,32 @@
 [
-    {
-        "id": "2000378936145",
-        "name": "PLANNER PU ESTRELLAS",
-        "parents": {
-            "subline": "S528912",
-            "line": "503657",
-            "department": "D383"
-        },
-        "size": "S"
+  {
+    "id": "2000378936145",
+    "name": "PLANNER PU ESTRELLAS",
+    "parents": {
+      "subline": "S528912",
+      "line": "503657",
+      "department": "D383"
     },
-    {
-        "id": "2000378839040",
-        "name": "BLUSA ML EATI BB2 NAC I20 NEGRO L",
-        "parents": {
-            "subline": "S530801",
-            "line": "502383",
-            "department": "D330"
-        },
-        "size": "S"
+    "size": "S"
+  },
+  {
+    "id": "2000378839040",
+    "name": "BLUSA ML EATI BB2 NAC I20 NEGRO L",
+    "parents": {
+      "subline": "S530801",
+      "line": "502383",
+      "department": "D330"
     },
-    {
-        "id": "2000378724582",
-        "name": "VESTIR MQS NIGHT SAFIANO VER20 NG NEGRO 41",
-        "parents": {
-            "subline": "S503009",
-            "line": "500935",
-            "department": "D310"
-        },
-        "size": "L"
-    }
+    "size": "S"
+  },
+  {
+    "id": "2000378724582",
+    "name": "VESTIR MQS NIGHT SAFIANO VER20 NG NEGRO 41",
+    "parents": {
+      "subline": "S503009",
+      "line": "500935",
+      "department": "D310"
+    },
+    "size": "L"
+  }
 ]
